@@ -1,0 +1,69 @@
+# Career-Ops Profile Configuration — Frezer Kifle
+
+candidate:
+  full_name: "Frezer Kifle"
+  email: "fkifle@aetherisinnovations.com"
+  phone: ""
+  location: "Philadelphia, PA"
+  linkedin: "linkedin.com/in/frezer-kifle-29971b3a7"
+  portfolio_url: "https://aetherisinnovations.com"
+  github: "github.com/Frezertade"
+  twitter: "https://x.com/aetherisinno1"
+
+target_roles:
+  primary:
+    - "AI/ML Engineer"
+    - "Full Stack Developer"
+    - "Software Engineer"
+    - "AI Solutions Engineer"
+  archetypes:
+    - name: "AI/ML Engineer"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "Full Stack Developer"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "Software Engineer"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "AI Solutions Architect"
+      level: "Mid"
+      fit: "secondary"
+    - name: "DevOps / Platform Engineer"
+      level: "Mid"
+      fit: "adjacent"
+
+narrative:
+  headline: "AI-first founder & full stack developer building intelligent web solutions"
+  exit_story: "Founded Aetheris Innovations — an AI-powered web agency deploying custom websites with AI chat widgets, automated outreach, and content engines for small businesses. Building the company while looking for the right full-time role to grow faster."
+  superpowers:
+    - "AI integration into production systems (Claude, Gemma 4, GPT)"
+    - "Full stack web development (Next.js, React, Node.js)"
+    - "Rapid prototyping — built & deployed 42 personalized demo sites in a single day"
+    - "Automated outreach & growth systems"
+    - "Entrepreneurial mindset — founded and run an LLC"
+  proof_points:
+    - name: "Aetheris Innovations"
+      url: "https://aetherisinnovations.com"
+      hero_metric: "42 AI-powered demo websites deployed in one day"
+    - name: "AI Outreach Engine"
+      url: "https://aetheris-ai-outreach.netlify.app"
+      hero_metric: "Automated cold outreach system with personalized demo generation"
+    - name: "AI Website + Chat Widget"
+      url: "https://aetheris-ai-website-chat.netlify.app"
+      hero_metric: "Custom AI chatbots trained on business data, 24/7 customer handling"
+    - name: "Bunni Coffee Website"
+      url: "https://bunni-coffee.netlify.app"
+      hero_metric: "Full e-commerce website for Ethiopian coffee exporter"
+
+compensation:
+  target_range: "$80K-130K"
+  currency: "USD"
+  minimum: "$70K"
+  location_flexibility: "Remote preferred, hybrid in Philadelphia area possible"
+
+location:
+  country: "United States"
+  city: "Philadelphia"
+  timezone: "EST"
+  visa_status: "No sponsorship needed"
